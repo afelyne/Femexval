@@ -1,0 +1,166 @@
+.right-border{
+    border-right: 2px rgb(11, 106, 181) solid;
+    padding-top: 20px;
+}
+
+.container-fluid{
+    background-color: rgb(19, 47, 103);
+}
+
+.container{
+    font-weight: bold;
+}
+
+.gradient-1{
+    border: 3px solid rgb(171, 216, 229);
+}
+
+.gradient-2{
+    border: 3px solid rgb(107, 173, 222);
+}
+
+.gradient-3{
+    border: 3px solid rgb(13, 102, 178);
+}
+
+.talleres, .pagos, .confirmacion{
+    background-color: rgb(107, 173, 222);
+    box-shadow: 5px -5px rgb(171, 216, 229);
+}
+
+.aviso{
+    font-weight: lighter;
+}
+
+
+/* INFO */
+
+.encabezado{
+    background-color: white;
+}
+
+.right-border{
+    border-right: 2px rgb(11, 106, 181) solid;
+    padding-top: 20px;
+}
+
+.container{
+    font-weight: bold;
+}
+
+.gradient-1{
+    border: 3px solid rgb(171, 216, 229);
+}
+
+.gradient-2{
+    border: 3px solid rgb(107, 173, 222);
+}
+
+.gradient-3{
+    border: 3px solid rgb(13, 102, 178);
+}
+
+.info{
+    color: rgb(19, 47, 103);
+}
+
+.p-info{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(13, 102, 178);
+    text-align: justify;
+}
+
+.cuadritos{
+    position: fixed;
+    
+}
+
+.cuadritos-derecha{
+    position: fixed;
+    right: 0;
+}
+
+
+/*--PROGRAMA..*/
+
+/**{
+    font-family: roboto;
+}*/
+
+.right-border{
+    border-right: 2px rgb(11, 106, 181) solid;
+    padding-top: 20px;
+}
+
+.gradient-1{
+    border: 3px solid rgb(171, 216, 229);
+}
+
+.gradient-2{
+    border: 3px solid rgb(107, 173, 222);
+}
+
+.gradient-3{
+    border: 3px solid rgb(13, 102, 178);
+}
+
+.info{
+    color: rgb(19, 47, 103);
+}
+
+.p-info{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(13, 102, 178);
+    text-align: justify;
+}
+
+.cuadritos{
+    z-index: -5;
+    position: fixed;
+    
+}
+
+.cuadritos-derecha{
+    z-index: -5;
+    position: fixed;
+    right: 0;
+}
+
+.horarios{
+    background-color: rgb(170, 215, 228);
+    box-shadow: 5px 5px rgb(102, 164, 210);
+}
+
+.horarios-2{
+    background-color: rgb(107, 173, 221);
+    box-shadow: 5px 5px rgb(17, 102, 177)
+}
+
+.inv-costo{
+    color: rgb(25, 108, 180);
+    font-weight: bold;
+}
+
+.pre-costo{
+    color: rgb(251, 74, 68);
+    font-weight: bold;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.linea{
+    border-top: 2px solid rgb(20, 47, 102);
+    margin-bottom: 3px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.borde-derecho{
+    border-right: 2px solid rgb(20, 47, 102);
+    margin-right: 10px;
+}
+
